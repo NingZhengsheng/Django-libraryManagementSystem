@@ -1,0 +1,16 @@
+
+滚动图片的制作：https://www.cnblogs.com/zmshare/p/6091102.html
+
+Linux启动Django : https://www.cnblogs.com/gaoya666/p/9159774.html
+
+后台运行Django项目 ：nohup python manage.py runserver 0:8011 &
+
+图书管理系统网站：http://112.74.109.77:8011/
+
+阿里云服务器：CentonOS
+python：3.6
+django：2.1.4
+mysql：5.7
+web服务器：nginx
+wsgi服务器：uwsgi
+python连接mysql库：pymysql
